@@ -1,37 +1,17 @@
-Hi there, I'm Bobak 👋
+Hi, I'm Bobak 👋
 
-💻 Aspiring Full-Stack Developer | 🌱 Lifelong Learner
+💻 Aspiring Full-Stack Developer
 
-I'm beginning my journey into full-stack development, learning how to build websites and applications from the ground up. I'm passionate about technology, solving problems, and turning ideas into reality through code.
+I'm passionate about technology, problem-solving, and building web applications. Currently developing my skills through hands-on projects and continuous learning.
 
-🚀 What I'm up to
-
-🌱 Learning full-stack web development, one step at a time
-
-💻 Building projects to practise and apply what I learn
-
-📚 Exploring both frontend and backend development
-
-🎯 Working towards becoming a well-rounded developer
-
-🤝 Open to learning from others and collaborating on projects
-
-🛠️ Technologies I'm Learning
-
-My tech stack will grow as I progress!
+🛠️ Technologies & Tools
 
 Frontend: HTML, CSS, JavaScript
 
-Backend: Exploring server-side development
+Backend: Currently learning
 
 Tools: Git, GitHub, VS Code
 
-📌 What's Next?
+🚀 Focused on building projects, improving my skills, and growing as a developer.
 
-I'm focused on building a strong foundation, creating projects, and documenting my progress along the way. Every project is an opportunity to learn something new.
-
-🤝 Let's Connect
-
-I'm always happy to connect with fellow developers, exchange ideas, and learn from the community.
-
-Thanks for stopping by! ⭐
+🤝 Open to collaboration, learning, and connecting with the developer community.
